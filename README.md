@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and tech enthus
 
 ## 🚀 About Me
 
+|   |   |
 |---|---|
 | 💻 | I'm a dedicated and self-motivated software engineer with a love for problem-solving and building innovative solutions. |
 | 🌱 | I'm currently honing my skills in full-stack web development. |
