@@ -1,6 +1,3 @@
-![profile]([https://raw.githubusercontent.com/ademic2022/academic2022/main/header.png](https://github.com/Ademic2022/Ademic2022/blob/356f0f0ff5f2eebf7aa0db24f84a31d85eb9b398/header.png
-)
-
 # Hi there, I'm Adeeyo Michael 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer and tech enthusiast based in Nigeria. Let's explore what I've been up to:
