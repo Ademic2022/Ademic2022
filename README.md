@@ -1,4 +1,4 @@
-# Hi there, I'm Adeeyo Michael 👋
+# Hi there, I'm Adeeyo Michael ![Waving Hand](https://tenor.com/bFtlc.gif)
 
 Welcome to my GitHub profile! I'm a passionate software engineer and tech enthusiast based in Nigeria. Let's explore what I've been up to:
 
@@ -58,4 +58,4 @@ Let's create something awesome together! 😃
 
 ---
 
-<p align="right">Profile Views: <img src="https://komarev.com/ghpvc/?username=ademic2022&color=brightgreen" alt="Profile views"></p>
+<p align="right">👨‍💻<img src="https://komarev.com/ghpvc/?username=ademic2022&color=brightgreen" alt="Profile views"></p>
