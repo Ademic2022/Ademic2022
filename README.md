@@ -1,4 +1,5 @@
-![Profile Banner](url-to-your-banner-image.jpg)
+![Profile Banner](https://raw.githubusercontent.com/ademic2022/academic2022/main/header.png)
+
 # Hi there, I'm Adeeyo Michael 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer and tech enthusiast based in Nigeria. Let's explore what I've been up to:
