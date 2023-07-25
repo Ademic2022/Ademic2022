@@ -1,4 +1,4 @@
-# Hi there, I'm Adeeyo Michael ![Waving Hand](https://tenor.com/bFtlc.gif)
+# Hi there, I'm Adeeyo Michael 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer and tech enthusiast based in Nigeria. Let's explore what I've been up to:
 
