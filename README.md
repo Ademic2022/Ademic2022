@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and tech enthus
 | 👯 | I’m looking to collaborate on open-source projects and impactful software development initiatives. |
 | ⚡ | Fun fact: In a few weeks, I'll be a graduate of the ALX Software Engineering Programme (cohort 11). |
 | 💬 | Ask me about Python, JavaScript, data structures, algorithms, and anything tech-related! |
-| 📫 | You can reach me via email at [Email](adeeyomichael77@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ademic). |
+| 📫 | You can reach me via email at Email: adeeyomichael77@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ademic). |
 
 ## 🛠️ Tech Stack
 
