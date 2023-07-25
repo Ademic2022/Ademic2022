@@ -21,7 +21,7 @@ Programming Languages | Frontend          | Backend           | Database
 | C 🐍                  | HTML5 🌐         | Node.js 🚀       | MySQL 🐬       |
 | Python 🐍             | CSS3 🎨         | Express.js 🚀    | PostgreSQL 🐘  |
 | JavaScript 🌐         | React ⚛️        | Django 🐍        |                |
-|                       | Vue.js 📚       |                  |                |
+|                       | Vue.js 📚       | Flask           |                |
 
 ## 📊 GitHub Stats, Current Streak, and Most Used Language
 
