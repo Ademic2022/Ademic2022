@@ -32,10 +32,10 @@ Programming Languages | Frontend          | Backend           | Database
 
 Here are some of the projects I have been working on:
 
-1. **Project Name 1**
+1. **Portfolio Project**
    - Description: A web application for managing tasks and to-do lists.
-   - Tech Stack: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB
-   - [Repository](https://github.com/ademic2022/project-name-1) | [Live Demo](https://example.com)
+   - Tech Stack: HTML5, CSS3, JavaScript, PhP, MongoDB
+   - [Repository](https://github.com/ademic2022/portfolio) | [Live Demo](https://ademic.rf.gd)
 
 2. **Project Name 2**
    - Description: An e-commerce platform for buying and selling products.
