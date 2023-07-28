@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and tech enthus
 ## 🛠️ Tech Stack
 
 <div style="overflow-x: auto;">
-  <table width="100">
+  <table width="100" align="center">
     <tr>
       <th style="width: 25%;">Programming Languages</th>
       <th style="width: 25%;">Frontend</th>
