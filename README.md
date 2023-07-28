@@ -27,10 +27,10 @@ Welcome to my GitHub profile! I'm a passionate software engineer and tech enthus
       <th width="100%">Database</th>
     </tr>
     <tr>
-      <td style="width: 25%;">C 🐍</td>
-      <td style="width: 25%;">HTML5 🌐</td>
-      <td style="width: 25%;">Node.js 🚀</td>
-      <td style="width: 25%;">MySQL 🐬</td>
+      <td width="100%">C 🐍</td>
+      <td width="100%">HTML5 🌐</td>
+      <td width="100%">Node.js 🚀</td>
+      <td width="100%">MySQL 🐬</td>
     </tr>
     <tr>
       <td style="width: 25%;">Python 🐍</td>
