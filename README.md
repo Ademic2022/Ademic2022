@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I'm a passionate software engineer and tech enthus
 <div style="overflow-x: auto;">
   <table style="width: 100%;">
     <tr>
-      <th style="width: 100%;">Programming Languages</th>
-      <th style="width: 100%;">Frontend</th>
-      <th style="width: 100%;">Backend</th>
-      <th style="width: 100%;">Database</th>
+      <th width="100%">Programming Languages</th>
+      <th swidth="100%">Frontend</th>
+      <th width="100%">Backend</th>
+      <th width="100%">Database</th>
     </tr>
     <tr>
       <td style="width: 25%;">C 🐍</td>
