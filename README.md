@@ -19,41 +19,39 @@ Welcome to my GitHub profile! I'm a passionate software engineer and tech enthus
 ## 🛠️ Tech Stack
 
 <div style="overflow-x: auto;">
-  <table style="width: 100%;">
+  <table style="width: 100%; border-collapse: collapse;">
     <tr>
-      <th style="width: 25%;">Programming Languages</th>
-      <th style="width: 25%;">Frontend</th>
-      <th style="width: 25%;">Backend</th>
-      <th style="width: 25%;">Database</th>
+      <th style="width: 25%; border: 1px solid black; padding: 8px;">Programming Languages</th>
+      <th style="width: 25%; border: 1px solid black; padding: 8px;">Frontend</th>
+      <th style="width: 25%; border: 1px solid black; padding: 8px;">Backend</th>
+      <th style="width: 25%; border: 1px solid black; padding: 8px;">Database</th>
     </tr>
     <tr>
-      <td style="width: 25%;">C 🐍</td>
-      <td style="width: 25%;">HTML5 🌐</td>
-      <td style="width: 25%;">Node.js 🚀</td>
-      <td style="width: 25%;">MySQL 🐬</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">C 🐍</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">HTML5 🌐</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">Node.js 🚀</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">MySQL 🐬</td>
     </tr>
     <tr>
-      <td style="width: 25%;">Python 🐍</td>
-      <td style="width: 25%;">CSS3 🎨</td>
-      <td style="width: 25%;">Express.js 🚀</td>
-      <td style="width: 25%;">PostgreSQL 🐘</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">Python 🐍</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">CSS3 🎨</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">Express.js 🚀</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">PostgreSQL 🐘</td>
     </tr>
     <tr>
-      <td style="width: 25%;">JavaScript 🌐</td>
-      <td style="width: 25%;">React ⚛️</td>
-      <td style="width: 25%;">Django 🐍</td>
-      <td style="width: 25%;"></td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">JavaScript 🌐</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">React ⚛️</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">Django 🐍</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;"></td>
     </tr>
     <tr>
-      <td style="width: 25%;"></td>
-      <td style="width: 25%;">Vue.js 📚</td>
-      <td style="width: 25%;">Flask</td>
-      <td style="width: 25%;"></td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;"></td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">Vue.js 📚</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;">Flask</td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px;"></td>
     </tr>
   </table>
 </div>
-
-
 
 ## 📊 GitHub Stats, Current Streak, and Most Used Language
 
