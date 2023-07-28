@@ -1,4 +1,4 @@
-![Profile Banner](https://imgbox.com/CQugsVPw)
+![Profile Banner](https://github.com/Ademic2022/Ademic2022/blob/main/header.png)
 <div align="center">
   <h1>Hi there <img src="https://github.com/Ademic2022/Ademic2022/blob/main/wave.gif" alt="Wave" width="40" height="40">, I'm Adeeyo Michael</h1>
 </div>
