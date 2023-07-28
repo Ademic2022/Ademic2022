@@ -1,5 +1,5 @@
 ![Profile Banner](https://imgbox.com/CQugsVPw)
-# Hi there, I'm Adeeyo Michael ![Wave](https://github.com/ademic2022/ademic2022/wave.gif)
+# Hi there, I'm Adeeyo Michael ![Wave](https://github.com/Ademic2022/Ademic2022/blob/main/wave.gif)
 
 Welcome to my GitHub profile! I'm a passionate software engineer and tech enthusiast based in Nigeria. Let's explore what I've been up to:
 
