@@ -18,12 +18,41 @@ Welcome to my GitHub profile! I'm a passionate software engineer and tech enthus
 
 ## 🛠️ Tech Stack
 
-Programming Languages | Frontend          | Backend           | Database        
-|-----------------------|------------------|------------------|----------------|
-| C 🐍                  | HTML5 🌐         | Node.js 🚀       | MySQL 🐬       |
-| Python 🐍             | CSS3 🎨         | Express.js 🚀    | PostgreSQL 🐘  |
-| JavaScript 🌐         | React ⚛️        | Django 🐍        |                |
-|                       | Vue.js 📚       | Flask           |                |
+<div style="overflow-x: auto;">
+  <table style="width: 100%;">
+    <tr>
+      <th style="width: 25%;">Programming Languages</th>
+      <th style="width: 25%;">Frontend</th>
+      <th style="width: 25%;">Backend</th>
+      <th style="width: 25%;">Database</th>
+    </tr>
+    <tr>
+      <td style="width: 25%;">C 🐍</td>
+      <td style="width: 25%;">HTML5 🌐</td>
+      <td style="width: 25%;">Node.js 🚀</td>
+      <td style="width: 25%;">MySQL 🐬</td>
+    </tr>
+    <tr>
+      <td style="width: 25%;">Python 🐍</td>
+      <td style="width: 25%;">CSS3 🎨</td>
+      <td style="width: 25%;">Express.js 🚀</td>
+      <td style="width: 25%;">PostgreSQL 🐘</td>
+    </tr>
+    <tr>
+      <td style="width: 25%;">JavaScript 🌐</td>
+      <td style="width: 25%;">React ⚛️</td>
+      <td style="width: 25%;">Django 🐍</td>
+      <td style="width: 25%;"></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"></td>
+      <td style="width: 25%;">Vue.js 📚</td>
+      <td style="width: 25%;">Flask</td>
+      <td style="width: 25%;"></td>
+    </tr>
+  </table>
+</div>
+
 
 ## 📊 GitHub Stats, Current Streak, and Most Used Language
 
