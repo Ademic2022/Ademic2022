@@ -1,5 +1,5 @@
 ![Profile Banner](https://imgbox.com/CQugsVPw)
-<div style="text-align: center;">
+<div align="center">
   <h1>Hi there, I'm Adeeyo Michael <img src="https://github.com/Ademic2022/Ademic2022/blob/main/wave.gif" alt="Wave" width="40" height="40"></h1>
 </div>
 
