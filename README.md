@@ -88,5 +88,4 @@ I'm always open to networking and collaborating on exciting projects! Feel free 
 Let's create something awesome together! 😃
 
 ---
-
 <p align="right">👨‍💻<img src="https://komarev.com/ghpvc/?username=ademic2022&color=brightgreen" alt="Profile views"></p>
