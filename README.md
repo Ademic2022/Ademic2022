@@ -82,7 +82,7 @@ Here are some of the projects I have been working on:
 I'm always open to networking and collaborating on exciting projects! Feel free to connect with me via:
 
 - Email: adeeyomichael77@gmail.com
-- Twitter: [@ademic2022](https://twitter.com/ademic_code)
+- Twitter: [@ademic](https://twitter.com/ademic_code)
 - LinkedIn: [Adeeyo Michael](https://www.linkedin.com/in/ademic)
 
 Let's create something awesome together! 😃
