@@ -65,9 +65,9 @@ Here are some of the projects I have been working on:
 1. **Portfolio Project**
    - Description: A web application for managing tasks and to-do lists.
    - Tech Stack: HTML5, CSS3, JavaScript, PhP
-   - [Repository](https://github.com/ademic2022/portfolio) | [Live Demo](https://ademic.rf.gd)
+   - [Repository](https://github.com/ademic2022/portfolio) | [Live Demo](https://ademic2022.github.io/portfolio/)
 
-2. **Project Name 2**
+2. **FAMEC**
    - Description: An e-commerce platform for buying and selling products.
    - Tech Stack: HTML5, CSS3, React, Django, PostgreSQL
    - [Repository](https://github.com/ademic2022/project-name-2) | [Live Demo](https://example.com)
