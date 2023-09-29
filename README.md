@@ -64,17 +64,17 @@ Here are some of the projects I have been working on:
 
 1. **Portfolio Project**
    - Description: A web application for managing tasks and to-do lists.
-   - Tech Stack: HTML5, CSS3, JavaScript, PhP
+   - Tech Stack: HTML5, CSS3, JavaScript
    - [Repository](https://github.com/ademic2022/portfolio) | [Live Demo](https://ademic2022.github.io/portfolio/)
 
 2. **FAMEC**
-   - Description: An e-commerce platform for buying and selling products.
-   - Tech Stack: HTML5, CSS3, React, Django, PostgreSQL
+   - Description: Home Management System(Family Management System or FamilyHub) is an all-in-one task management app designed to simplify and organize the daily responsibilities of a household. It's a centralized platform where family members can coordinate, assign, and track various tasks and activities, ensuring a well-managed and harmonious home environment.
+   - Tech Stack: HTML5, CSS3, Semantic Ui, Flask, MySql, Alembic
    - [Repository](https://github.com/ademic2022/project-name-2) | [Live Demo](https://example.com)
 
-3. **Project Name 3**
+3. **Ecommerce**
    - Description: A simple blog application.
-   - Tech Stack: Python, Flask, SQLite
+   - Tech Stack: Python, Flask, MySql, Stripe, Alembic
    - [Repository](https://github.com/ademic2022/project-name-3) | [Live Demo](https://example.com)
 
 ## 🌐 Connect With Me
