@@ -70,7 +70,7 @@ Here are some of the projects I have been working on:
 2. **FAMEC**
    - Description: Home Management System(Family Management System or FamilyHub) is an all-in-one task management app designed to simplify and organize the daily responsibilities of a household. It's a centralized platform where family members can coordinate, assign, and track various tasks and activities, ensuring a well-managed and harmonious home environment.
    - Tech Stack: HTML5, CSS3, Semantic Ui, Flask, MySql, Alembic
-   - [Repository](https://github.com/ademic2022/project-name-2) | [Live Demo](https://example.com)
+   - [Repository](https://github.com/ademic2022/FAMEC.git) | [Live Demo](https://example.com)
 
 3. **Ecommerce**
    - Description: A simple blog application.
