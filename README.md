@@ -76,6 +76,16 @@ Here are some of the projects I have been working on:
    - Description: A simple blog application.
    - Tech Stack: Python, Flask, MySql, Stripe, Alembic
    - [Repository](https://github.com/ademic2022/project-name-3) | [Live Demo](https://example.com)
+     
+4. **React Portfolio**
+   - Description: Experience the evolution of user interfaces and user experiences through my portfolio. Each project reflects my dedication to creating intuitive designs that enhance user interaction and elevate overall usability.
+   - Tech Stack: ReactJs, Tailwind
+   - [Repository](https://github.com/Ademic2022/React-Portfolio.git) | [Live Demo](https://ademic.vercel.app/)
+
+  5. **School Management System**
+   - Description: Streamline administrative tasks with our School Management System, empowering educators to focus more on teaching and less on paperwork. From attendance tracking to grade management, we've got it covered.
+   - Tech Stack: Python, Django, Material UI, ReactJs, PostgreSQL
+   - [Repository](https://github.com/Ademic2022/school-management-system-ui.git) | [Live Demo](https://school-management-system-ui.vercel.app/)
 
 ## 🌐 Connect With Me
 
