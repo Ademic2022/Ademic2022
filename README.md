@@ -82,7 +82,7 @@ Here are some of the projects I have been working on:
    - Tech Stack: ReactJs, Tailwind
    - [Repository](https://github.com/Ademic2022/React-Portfolio.git) | [Live Demo](https://ademic.vercel.app/)
 
-  5. **School Management System**
+5. **School Management System**
    - Description: Streamline administrative tasks with our School Management System, empowering educators to focus more on teaching and less on paperwork. From attendance tracking to grade management, we've got it covered.
    - Tech Stack: Python, Django, Material UI, ReactJs, PostgreSQL
    - [Repository](https://github.com/Ademic2022/school-management-system-ui.git) | [Live Demo](https://school-management-system-ui.vercel.app/)
