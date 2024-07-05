@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and tech enthus
     </tr>
     <tr>
       <td style="width: 25%;"></td>
-      <td style="width: 25%;">Vue.js 📚</td>
+      <td style="width: 25%;">Next.js 📚</td>
       <td style="width: 25%;">Flask</td>
       <td style="width: 25%;"></td>
     </tr>
